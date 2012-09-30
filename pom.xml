@@ -20,7 +20,7 @@
 		<ALOHABUILDCONF>build/aloha</ALOHABUILDCONF>
 		<ALOHADEPLOYMENTURL>NA</ALOHADEPLOYMENTURL>
 		<ALOHADEPLOYMENTPATH>NA</ALOHADEPLOYMENTPATH>
-		<build.profile>build-profile-with-common-extra-plugins</build.profile>
+		<build.profile>build-silvona</build.profile>
 	</properties>
 
 	<dependencies>
